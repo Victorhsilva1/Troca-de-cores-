@@ -5,11 +5,7 @@ Landing page simples desenvolvida durante o curso de **Desenvolvimento de Sistem
 ## Tecnologias
 - HTML  
 - CSS  
-- Media Queries
-
-## Boas Práticas
-- Tags semânticas  
-- Responsividade  
+- JavaScript
 
 ## Autor
 Victor Hugo Rocha da Silva  
